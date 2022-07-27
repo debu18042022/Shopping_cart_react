@@ -1,0 +1,99 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "man and black perfume",
+            "photograph": "https://m.media-amazon.com/images/I/61kghfClh7L._SY879_.jpg",
+            "price":200,
+            "quantity":1
+        },
+        {
+            "id": 2,
+            "name": "cargo jeans stretchable",
+            "photograph": "https://www.jeanswholesaler.in/4004-thickbox_default/men-s-vintage-denim-tone-jeans-ds118.jpg",
+          
+            "price":200,
+            "quantity":1
+        },
+        {
+            "id": 3,
+            "name": "frocks princess color",
+            "photograph": "https://i.pinimg.com/originals/1e/81/c1/1e81c1678b2db5e20579bb5df139bae9.jpg",
+           
+            "price":200,
+            "quantity":1
+        },
+        {
+            "id": 4,
+            "name":"mens titan watch greyman",
+            "photograph": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Eiu4P1ZSn29vuVnqwUpNPETUvNM-m2A0bAO0Le0tSp0-BiZfkrbZhLB5BLlnqlJi8M4&usqp=CAU",
+          
+            "price":200,
+            "quantity":1
+        },
+        {
+            "id": 5,
+            "name": "pure brown leather wallet",
+            "photograph": "https://rukminim1.flixcart.com/image/714/857/k6b2snk0/wallet-card-wallet/r/h/w/protected-100-genuine-high-quality-mens-crunch-leather-wallet-original-imafzsxt57bzzegu.jpeg?q=50",
+          
+            "price":200,
+            "quantity":1
+        },
+        {
+            "id": 6,
+            "name": "pink baby princess frocks",
+            "photograph": "https://assets.ajio.com/medias/sys_master/root/20220520/PUdj/6286ae23aeb26921aface366/tior_white_floral_print_fit_%26_flare_dress_with_bow_applique.jpg",
+           
+            "price":200,
+            "quantity":1
+        },
+        {
+            "id": 7,
+            "name": "dotted mens half shirt",
+            "photograph": "https://m.media-amazon.com/images/I/71YeNzaLCGL._UX569_.jpg",
+          
+            "price":200,
+            "quantity":1
+        },
+        {
+            "id": 8,
+            "name": "skinny jeans blue bold",
+            "photograph": "https://image.made-in-china.com/44f3j00EwmaBwdINJoA/New-Arrival-Men-s-Fashion-Pantalones-Jeans-Skinny-Light-Blue-Ripped-Denim-Jeans-for-Men.jpg",
+          
+            "price":200,
+            "quantity":1
+        },
+        {
+            "id": 9,
+            "name": "dark side mens perfume",
+            "photograph": "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9kYXJrLXNpZGUtcGVyZnVtZS0xMDgweDg1NS0zNzc1Ny5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEsImhlaWdodCI6NzAwLCJmaXQiOiJvdXRzaWRlIn19fQ==",
+            
+            "price":200,
+            "quantity":1
+        },
+        {
+            "id": 10,
+            "name": "stretchable mens t-shirt",
+            "photograph": "https://m.media-amazon.com/images/I/61yBCMmuI4L._UL1440_.jpg",
+           
+            "price":200,
+            "quantity":1
+        },
+        {
+            "id": 10,
+            "name": "tamoil drangons t shirts men",
+            "photograph": "https://www.mydesignation.com/wp-content/uploads/2019/08/malayali-tshirt-mydesignation-mockup-image-latest-golden-.jpg",
+         
+            "price":200,
+            "quantity":1
+        },
+        {
+            "id": 10,
+            "name": "white rosssy mens t-shirt",
+            "photograph": "https://99designs-start-attachments.imgix.net/alchemy-pictures/2016%2F01%2F26%2F21%2F38%2F27%2F9e6ce5bb-4ee0-4618-9a58-00b9d4487c0b%2F129788_Ivanpratt.png?auto=format&ch=Width%2CDPR&fm=png&w=558&h=669",
+          
+            "price":200,
+            "quantity":1
+        }
+    ]
+}
